@@ -1,0 +1,16 @@
+.barraSuperior{
+    display:flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.titulo{
+    display:flex;
+    justify-content: space-between;
+    align-items: center;
+    font-variant-caps: petite-caps;
+}
+.tresCajas{
+    display:flex;
+    justify-content: space-between;
+    align-items: center;
+}
