@@ -1,7 +1,5 @@
 /* Estilos genéricos */
-@font-face{
 
-}
 
 html{
     background-color: #FFFFFF;
@@ -51,12 +49,13 @@ justify-content: space-between;
 }
 .titulo__texto{
  
-    color:rgb(225, 234, 252);
+    color:#4C6291;
     font-size: 48px;
 }
 .titulo__lineas{
     height: 1px;
-    background-color: rgb(225, 234, 252);
+    width: 100%;
+    background-color: #4C6291;
 }
 .tresCajas{
     display:flex;
