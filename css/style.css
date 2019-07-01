@@ -44,7 +44,7 @@ justify-content: space-between;
 
 .titulo{
     display:flex;
-    justify-content: space-between;
+    justify-content: space-around;
     align-items: center;
 }
 .titulo__texto{
@@ -52,9 +52,9 @@ justify-content: space-between;
     color:#4C6291;
     font-size: 48px;
 }
-.titulo__lineas{
-    height: 1px;
-    width: 100%;
+.titulo__linea{
+    height: 3px;
+    width: 20%;
     background-color: #4C6291;
 }
 .tresCajas{
@@ -63,6 +63,7 @@ justify-content: space-between;
     align-items: center;
     color:#707070;
     font-size: 25px;
+    
 }
 
 .tresCajas__posicion1{
@@ -77,7 +78,7 @@ justify-content: space-between;
 
 
 
-}
+
 .precios{
     color:white;
     font-size: 48px;
